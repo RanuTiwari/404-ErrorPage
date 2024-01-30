@@ -1,0 +1,119 @@
+body{ 
+    margin:0;
+    text-align: center;
+    font-family:  sans-serif;
+    color: #3a3a3a; 
+    ;
+}
+
+
+
+h1{font-size: 90px;
+    margin: 50px auto 0 auto;
+font-family: "Sofia", sans-serif;
+color: #E51636;
+
+}  
+
+h2{font-family: sacramento, cursive;
+font-size: 2.5rem;
+color: #E51636;
+font-weight: normal;
+padding-bottom: 10px;
+}
+
+h3{color: #800000;}
+
+a{color: #ffffff;
+    font-family: Montserrat, sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;}
+    
+a:hover{color: #800000;}
+    
+.copyright{color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px o;}
+
+
+
+.bottom-container{ background-color: #E51636;
+            padding: 50px 0 20px;}
+
+.footer-link i {
+    margin-right: 5px; /* Adjust the value as needed */
+ }            
+            
+        
+
+/*Navigation-bar*/
+
+.navbar{
+    overflow: hidden;
+    background-color: #E51636;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding-bottom: 0 0 4.5rem;
+}
+
+
+ .navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-right: 200px;
+    color: #ffffff;
+}
+
+.nav-item{
+    padding: 0 8px;}
+
+.nav-link:hover{
+        color: #3a3a3a;}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+    color: #ffffff;
+}
+
+
+.navbar-nav{padding-left:0px;}
+
+.Slides1 {
+    margin-top: 100px ;
+}
+
+.Slides {
+    margin-top: 30px ;
+}
+
+
+.btn {
+    background: #E51636;
+    background-image: -webkit-linear-gradient(top, #E51636);
+    background-image: -moz-linear-gradient(top, #E51636);
+    background-image: -ms-linear-gradient(top, #E51636);
+    background-image: -o-linear-gradient(top, #E51636);
+    background-image: linear-gradient(to bottom, #E51636);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #800000;
+    background-image: -webkit-linear-gradient(top, #800000, #800000);
+    background-image: -moz-linear-gradient(top, #800000, #800000);
+    background-image: -ms-linear-gradient(top, #800000, #800000);
+    background-image: -o-linear-gradient(top, #800000, #800000);
+    background-image: linear-gradient(to bottom, #800000, #800000);
+    color: #ffffff;
+    text-decoration: none;
+  }
